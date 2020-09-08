@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer_tests",
+  "version": "1.0.0",
+  "description": "Testes com puppeter",
+  "main": "index.js",
+  "scripts": {
+    "links": "node get-links.js",
+    "search":"node search-links.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeOliveiraCasagrande/puppeteer-testes.git"
+  },
+  "author": "Guilherme Oliveira Casagrande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeOliveiraCasagrande/puppeteer-testes/issues"
+  },
+  "homepage": "https://github.com/GuilhermeOliveiraCasagrande/puppeteer-testes#readme",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
