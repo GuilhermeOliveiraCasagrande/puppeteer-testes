@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "links": "node get-links.js",
-    "search":"node search-links.js"
+    "search": "node search-links.js"
   },
   "repository": {
     "type": "git",
